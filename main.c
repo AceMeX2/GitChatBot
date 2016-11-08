@@ -9,4 +9,5 @@ main(){
 
 	printf("Hello, what is your first name?\n");
 	scanf("%s"firstname);
+	printf("Hello %s my name is GitChatBot but you can call me GCB.\n", firstname);
 }
