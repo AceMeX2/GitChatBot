@@ -5,5 +5,8 @@
 
 main(){
 
-	printf("This is a test.\n");
+	char firstname[30], lastname[30];
+
+	printf("Hello, what is your first name?\n");
+	scanf("%s"firstname);
 }
